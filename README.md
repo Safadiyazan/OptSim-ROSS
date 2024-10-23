@@ -20,3 +20,6 @@ Codes for visualizing simulator results.
 1. Open the respective Jupyter Notebook files.
 2. Follow the instructions within each notebook to run the optimization or simulation processes.
 3. Adjust parameters as needed for your specific use case.
+
+## License
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
